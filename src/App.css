@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+  
+}
+.App-link {
+  color: black;
+}
+a{
+  text-decoration: none;
+
+}
+.nav{
+  background-color: cornflowerblue;
+}
+.nav ul{
+  align-content: center;
+  justify-content: space-around;
+  list-style-type: none;
+  display: flex;
+}
+.nav ul a{
+  margin: 5px;
+  color:  black;
+}
